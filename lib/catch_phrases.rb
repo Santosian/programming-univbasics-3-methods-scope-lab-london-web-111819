@@ -9,9 +9,8 @@ def toadstool
 end
 
 def link
-  alert = "It's Dangerous To Go Alone! Take This."
-  return alert
-  puts alert
+  phrase = "It's Dangerous To Go Alone! Take This."
+  puts phrase
 end 
 
 def any_phrase(daphrase)
