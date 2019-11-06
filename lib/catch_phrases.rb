@@ -8,7 +8,7 @@ def toadstool
   puts status
 end
 
-def warning
+def link
   alert = "It's Dangerous To Go Alone! Take This."
   return alert
   puts alert
