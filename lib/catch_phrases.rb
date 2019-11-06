@@ -14,7 +14,7 @@ def warning
   puts alert
 end 
 
-def any_phrase
+def any_phrase(daphrase)
   puts phrase
   return phrase
 end
