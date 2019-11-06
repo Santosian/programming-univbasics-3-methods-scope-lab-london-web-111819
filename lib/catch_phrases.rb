@@ -21,5 +21,5 @@ end
 
 mario
 toadstool
-warning
+link
 any_phrase("Do A Barrel Roll!")
