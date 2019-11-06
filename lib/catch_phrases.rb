@@ -14,8 +14,7 @@ def warning
   puts alert
 end 
 
-def any_phrase(phrase)
-  phrase = "Do A Barrel Roll!"
+def any_phrase
   puts phrase
   return phrase
 end
@@ -23,4 +22,4 @@ end
 mario
 toadstool
 warning
-any_phrase(phrase)
+any_phrase("Do A Barrel Roll!")
