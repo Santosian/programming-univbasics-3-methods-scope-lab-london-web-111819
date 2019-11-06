@@ -10,6 +10,7 @@ end
 
 def warning
   alert = "It's Dangerous To Go Alone! Take This."
+  return alert
   puts alert
 end 
 
