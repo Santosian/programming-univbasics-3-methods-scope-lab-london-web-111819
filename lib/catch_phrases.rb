@@ -10,13 +10,12 @@ end
 
 def warning
   alert = "It's Dangerous To Go Alone! Take This."
-  return "It's Dangerous To Go Alone! Take This."
   puts alert
 end 
 
 def any_phrase(daphrase)
-  puts phrase
-  return phrase
+  puts daphrase
+  return daphrase
 end
 
 mario
